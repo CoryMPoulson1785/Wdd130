@@ -4,14 +4,16 @@ h1{
 }
 nav {
     background-color: steelblue;
-    padding: 10px;
+    padding: 25px;
 }
 a {
     font-size: 1.5em;
     color: white;
     margin: 40px;
+    padding: 25px;
   }
   h1 {
+    margin: 50px 0;
     color: steelblue;
   }
   img {
@@ -48,9 +50,14 @@ main p {
 }
 footer p {
   font-size: 20px;
+  padding: 25px;
   margin: 20px auto;
+  color: white  ;
 }
 a:hover {
   background-color: white;
   color: steelblue;
+}
+body{
+  margin: 0;
 }
